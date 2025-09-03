@@ -1,2 +1,2 @@
 # EDA-Analysis
-EDA analysis of different datasets.
+EDA of different datasets.
